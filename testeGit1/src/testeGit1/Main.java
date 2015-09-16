@@ -2,8 +2,13 @@ package testeGit1;
 
 public class Main {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args)
+	{
+		int i = 45;
+		
+		i++;
+		
+		System.out.println(i);
 
 	}
 
