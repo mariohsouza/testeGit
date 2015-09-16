@@ -8,7 +8,7 @@ public class Main {
 		
 		i++;
 		
-		System.out.println(i);
+		System.out.println(i+" is the number!");
 
 	}
 
